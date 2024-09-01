@@ -2,7 +2,8 @@
 
 This project is designed to demonstrate high-performance API rendering using Hono, Next.js, and Cloudflare. The primary goal was to learn and showcase the usage of Redis, Cloudflare, and other modern dependencies to build a blazing-fast API that delivers results in milliseconds.
 
-![Excalidraw Diagram]([https://excalidraw.com/#json=BjZEpKcYzWH18Ry4Dg5be,2qqUNqcD-hjO9gGhEVPxDA](https://excalidraw.com/#json=8mnSyB5TPMRp2hhLa10W1,3tcfnvfIR_-M7u9YNfwc3g))
+[Excalidraw Diagram](https://excalidraw.com/#json=BjZEpKcYzWH18Ry4Dg5be,2qqUNqcD-hjO9gGhEVPxDA)
+
 
 ## Table of Contents
 - [Overview](#overview)
